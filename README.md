@@ -9,9 +9,9 @@
 ```
 ├── main.tex                  # Archivo principal LaTeX (respuestas P1–P10)
 ├── main.pdf                  # PDF compilado
-├── p1_diagrama_de_clases.png           # P1 — Diagrama de clases UML
-├── p2_diagrama_de_actividades.png           # P2 — Diagrama de actividades UML
-├── p3_maquina_de_estados.png           # P3 — Máquina de estados
+├── p1_diagrama.png           # P1 — Diagrama de clases UML
+├── p2_diagrama.png           # P2 — Diagrama de actividades UML
+├── p3_diagrama.png           # P3 — Máquina de estados
 ├── captura_evaluacion.png    # Captura: resumen del cuestionario (SGA)
 ├── captura_resumen.png       # Captura: revisión del intento (SGA)
 └── README.md                 # Este archivo
@@ -28,8 +28,8 @@
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/TU-USUARIO/TU-REPOSITORIO.git](https://github.com/amarcilloPoolgen/Marcillo-ISR401-Prueba-U4/edit/main/README.md
-   cd TU-REPOSITORIO
+   git clone https://github.com/amarcilloPoolgen/Marcillo-ISR401-Prueba-U4.git
+   cd Marcillo-ISR401-Prueba-U4
    ```
 
 2. Compilar el archivo principal con `pdflatex` (se ejecuta dos veces para
